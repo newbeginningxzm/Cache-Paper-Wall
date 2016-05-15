@@ -1,0 +1,2 @@
+# Cache-Paper-Wall
+使用LRU Cache和Disk LruCache实现的PaperWall，提供了同步加载方法和异步加载方法，根据ImgView尺寸对Bitmap进行resamplesize后再设置Bitmap。
